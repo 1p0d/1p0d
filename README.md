@@ -1,11 +1,11 @@
 ### Welcome to 1p0d's profile 👋
 
-I have (maybe good) knowledge in:
+I have (maybe good) knowledge of:
 - HTML/CSS
 - Java ☕
 - PostgreSQL
 
-I programmed something in the past with:
+Some other languages I am using or I used in the past:
 - C
 - C#
 - Haskell
