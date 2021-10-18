@@ -17,7 +17,3 @@ Languages I know the basics of:
 I am currently studying at the **[@FontysVenlo](https://github.com/FontysVenlo)**.
 
 *"Good code matters" - Kent Beck*
-
-My Octocat:
-
-<img src="./1p0dOctocat.png" alt="1p0ds Octocat" style="width: 50%;"/>
