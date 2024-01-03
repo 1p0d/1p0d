@@ -4,6 +4,6 @@
 
 #### Student at **[DTU](https://www.dtu.dk/)**
 
-#### Junior Software Engineer at **[Float](https://www.floatanalytics.com/)**
+#### Software Engineer at **[Float](https://www.floatanalytics.com/)**
 
 *"Good code matters" - Kent Beck*
