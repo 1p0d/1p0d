@@ -1,9 +1,5 @@
 ### Welcome to my profile 👋
 
-#### My name is Lucca
-
-#### Student at **[DTU](https://www.dtu.dk/)**
-
-#### Software Engineer at **[Float](https://www.floatanalytics.com/)**
+<img src="./1p0dOctocat.png" alt="1p0ds Octocat" style="width: 50%;"/>
 
 *"Good code matters" - Kent Beck*
